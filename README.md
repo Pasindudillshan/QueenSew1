@@ -94,6 +94,7 @@ By establishing the SewQueen, you are deemed to have accepted these responsibili
 ##🇱🇰 Developer 🍁
 
 [![RAVINDU MANOJ](https://bit.ly/3AyW139)]https://github.com/Abivarghese121/QueenSew1
+https://github.com/Pasindudillshan
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
